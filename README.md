@@ -20,15 +20,16 @@
 </p>
 
 <p align="center">
+<table>
+  <tr>
+    <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/1.gif" width="400"></td>
+    <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/2.gif" width="400"></td>
+  </tr>
+<tr>
+    <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/3.gif" width="400"></td>
+    <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/4.gif" width="400"></td>
+</tr>
 
-  <br>
-    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/1.gif" width="400">
-    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/2.gif" width="400">
-  <br>
-    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/3.gif" width="400">
-    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/4.gif" width="400">
- </p>     
-
-
+</table>
 
  </p>     
