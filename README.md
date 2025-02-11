@@ -11,12 +11,24 @@
 <table>
   <tr>
     <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/Concepts.png" width="600"></td>
-    <td rowspan="2"><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/Infinity.png" width="200" height="300"></td>
+    <td rowspan="2"><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/Infinity.png" width="200" height="500"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/exploded.png" width="600"></td>
   </tr>
 </table>
+</p>
+
+<p align="center">
+
+  <br>
+    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/1.gif" width="400">
+    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/2.gif" width="400">
+  <br>
+    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/3.gif" width="400">
+    <img src="https://github.com/magnergusse/Laboratorio-de-Design/blob/main/IMG/4.gif" width="400">
+ </p>     
+
 
 
  </p>     
